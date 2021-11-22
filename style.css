@@ -5,3 +5,54 @@
 ul {
   list-style: none;
 }
+
+.discover {
+  height: 1203px;
+  width: 464px;
+  display: flex;
+  margin: 110px 170px 200px 227px;
+}
+
+.discover__name {
+  width: 524px;
+  height: 136px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 67, 5px;
+  margin-bottom: 20px;
+  color: #021206;
+}
+
+.discover__description {
+  width: 448px;
+  height: 58px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 29px;
+  margin-bottom: 20px;
+  color: #021206;
+}
+
+.discover__highlights {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+}
+
+.discover__img {
+  height: 464px;
+  width: 595px;
+}
+
+.discover__highlights {
+  padding-inline-start: 24px;
+}
+
+.discover__highlights--points {
+  margin: 20px 0 16px 11px;
+  list-style-image: url("./assets/Group\ 9.svg");
+  color: #021206;
+}

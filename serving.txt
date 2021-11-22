@@ -1,0 +1,14 @@
+
+    <div class="Serving-info">
+      <img class="Serving-info__img" src="assets/Group 132.svg" alt="">
+      <div class="Serving-info__text">
+        <h2 class="Serving-info__name">Discover & growth with analysis.</h2>
+        <p class="Serving-info__description">Software with new dimensions. The better future and information about the virtual world.</p>
+        <ul class="Serving-info__highlights">
+          <li>Software with new dimensions the better.</li>
+          <li>Effortlessly manages all your information.</li>
+          <li>Simple Solutions for Complex Connections.</li>
+          <li>Complete business solutions for customers.</li>
+        </ul>
+      </div>
+    </div>
