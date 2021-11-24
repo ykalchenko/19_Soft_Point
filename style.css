@@ -6,6 +6,7 @@
 ul {
   list-style: none;
 }
+
 h1 {
   margin: 0;
 }
@@ -261,4 +262,112 @@ h1 {
 .solution__ask:hover {
   transition: .3s all;
   color: #282323;
+}
+
+.discover {
+  height: 464px;
+  width: 1203px;
+  display: flex;
+  margin: 110px 170px 210px 227px;
+}
+
+.discover__name {
+  width: 524px;
+  height: 136px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 67, 5px;
+  margin-bottom: 20px;
+  color: #021206;
+}
+
+.discover__description {
+  width: 448px;
+  height: 58px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 29px;
+  margin-bottom: 20px;
+  color: #021206;
+}
+
+.discover__highlights {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+}
+
+.discover__img {
+  height: 464px;
+  width: 595px;
+}
+
+.discover__highlights {
+  padding-inline-start: 24px;
+}
+
+.discover__highlights--points {
+  margin: 20px 0 16px 11px;
+  list-style-image: url("./assets/Group\ 9.svg");
+  color: #021206;
+}
+
+.Serving-info {
+  height: 1184px;
+  width: 440px;
+  display: flex;
+  margin: 208px 286px 20px 130px;
+}
+
+.Serving-info__img {
+  height: 440px;
+  width: 591px;
+}
+
+.Serving-info__body {
+  margin-top: 48px;
+  margin-left: 94px;
+  width: 499px;
+  height: 345px;
+}
+
+.Serving-info__name {
+  width: 499px;
+  height: 136px;
+  font-family: Poppins;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 68px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.Serving-info__description {
+  width: 480px;
+  margin-bottom: 15px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #021206;
+}
+
+.Serving-info__highlight {
+  width: 479px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #021206;
 }
